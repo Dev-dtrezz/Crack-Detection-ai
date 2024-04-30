@@ -1,4 +1,4 @@
-## 2404_Crack Detection
+## crack-detection-ai
 
 - 사용목적 : CNN모델을 활용하여 드론이미지에서 측정된 아파트 외벽면의 시공이미지에서 CRACK을 탐지하는 COMPUTER VISION 프로젝트
 
