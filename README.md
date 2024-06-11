@@ -7,3 +7,5 @@
 - 작업일지 : [노션 링크](https://painted-notify-2cc.notion.site/2404_Crack_Detection-f0c05c933f1048d28ae1dca9966d5e22?pvs=4)
 
 - 사용모델 : yolov5
+
+![image](https://github.com/yunseobYuk/Crack-Detection-ai/assets/156567400/723236e3-ebf7-45f7-9101-7f05be6fc544)
